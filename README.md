@@ -1,4 +1,4 @@
-# cryptocurrency app
+# CRUD API VUE app
 ## Author
 keya254
 
